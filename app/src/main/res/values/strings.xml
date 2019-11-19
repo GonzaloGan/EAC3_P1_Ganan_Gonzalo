@@ -1,4 +1,95 @@
 <resources>
     <string name="app_name">EAC3_P1_Ganan_Gonzalo</string>
     <string name="title_item_detail">Item Detail</string>
+
+    <string name="australia_detail">Australia, officially the Commonwealth of Australia,
+        is a sovereign country comprising the mainland of the Australian continent,
+        the island of Tasmania, and numerous smaller islands. It is the largest country
+        in Oceania and the worlds sixth-largest country by total area.
+        The neighbouring countries are Papua New Guinea, Indonesia
+        , and East Timor to the north; the Solomon Islands and Vanuatu to the north-east;
+        and New Zealand to the south-east. The population of 26 million is highly urbanised
+        and heavily concentrated on the eastern seaboard. Australia\'s capital is Canberra,
+        and its largest city is Sydney. The country\'s other major metropolitan areas are
+        Melbourne, Brisbane, Perth, and Adelaide.</string>
+
+    <string name="estonia_detail">Estonia, officially the Republic of Estonia, is a country on the
+        eastern coast of the Baltic Sea in Northern Europe. It is bordered to the north by the Gulf
+        of Finland with Finland on the other side, to the west by the Baltic Sea with Sweden on the
+        other side, to the south by Latvia (343 km), and to the east by Lake Peipus and Russia
+        (338.6 km).The territory of Estonia consists of a mainland and 2,222 islands in the
+        Baltic Sea, covering a total area of 45,227 km2 (17,462 sq mi), water 2,839 km2
+        (1,096 sq mi), land area 42,388 km2 (16,366 sq mi), and is influenced by a humid
+        continental climate. The official language of the country, Estonian, is the
+        second-most-spoken Finnic language.</string>
+
+    <string name="chile_detail">Chile, officially the Republic of Chile, is a South American
+        country occupying a long, narrow strip of land between the Andes to the east and the
+        Pacific Ocean to the west. It borders Peru to the north, Bolivia to the northeast,
+        Argentina to the east, and the Drake Passage in the far south. Chilean territory
+        includes the Pacific islands of Juan Fernández, Salas y Gómez, Desventuradas,
+        and Easter Island in Oceania. Chile also claims about 1,250,000 square kilometres
+        (480,000 sq mi) of Antarctica under the Chilean Antarctic Territory.</string>
+
+    <string name="china_detail">China, officially the People\'s Republic of China (PRC),
+        is a country in East Asia and the world\'s most populous country,
+        with a population of around 1.428 billion in 2017. Covering approximately
+        9,600,000 square kilometers (3,700,000 sq mi), it is the third or fourth
+        largest country by total area. Governed by the Communist Party of China,
+        the state exercises jurisdiction over 22 provinces, five autonomous regions,
+        four direct-controlled municipalities (Beijing, Tianjin, Shanghai, and Chongqing),
+        and the special administrative regions of Hong Kong and Macau.</string>
+
+    <string name="uganda_detail">Uganda, officially the Republic of Uganda ,
+        is a country in East-Central Africa. It is bordered to the east by Kenya,
+        to the north by South Sudan, to the west by the Democratic Republic of the Congo,
+        to the south-west by Rwanda, and to the south by Tanzania. The southern part of the
+        country includes a substantial portion of Lake Victoria, shared with Kenya and Tanzania.
+        Uganda is in the African Great Lakes region. Uganda also lies within the Nile basin,
+        and has a varied but generally a modified equatorial climate.</string>
+
+    <string name="congo_detail">The Democratic Republic of the Congo, also known as DR Congo,
+        the DRC, DROC, Congo-Kinshasa, or simply the Congo, is a country located in Central Africa.
+        It was formerly called Zaire (1971–1997). It is, by area, the largest country in
+        sub-Saharan Africa, the second-largest in all of Africa (after Algeria),
+        and the 11th-largest in the world. With a population of over 84 million,
+        the Democratic Republic of the Congo is the most populous officially Francophone country,
+        the fourth-most-populous country in Africa, and the 16th-most-populous country in the world.
+        Eastern DR Congo has been the scene of ongoing military conflict in Kivu, since 2015.</string>
+
+    <string name="egypt_detail">Egypt, officially the Arab Republic of Egypt,
+        is a country in the northeast corner of Africa, whose territory in the Sinai
+        Peninsula extends beyond the continental boundary with Asia, as traditionally defined.
+        Egypt is bordered by the Gaza Strip and Israel to the northeast, the Gulf of Aqaba
+        and the Red Sea to the east, Sudan to the south, Libya to the west, and the Mediterranean
+        Sea to the north. Across the Gulf of Aqaba lies Jordan, across the Red Sea lies
+        Saudi Arabia, and across the Mediterranean lie Greece, Turkey and Cyprus,
+        although none share a land border with Egypt.</string>
+
+    <string name="india_detail">India, officially the Republic of India,
+        is a country in South Asia. It is the seventh-largest country by area,
+        the second-most populous country, and the most populous democracy in the world.
+        Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest,
+        and the Bay of Bengal on the southeast, it shares land borders with
+        Pakistan to the west China, Nepal, and Bhutan to the north; and Bangladesh
+        and Myanmar to the east. In the Indian Ocean, India is in the vicinity of Sri Lanka
+        and the Maldives; its Andaman and Nicobar Islands share a maritime border with
+        Thailand and Indonesia.</string>
+
+    <string name="portugal_detail">Portugal, officially the Portuguese Republic,
+        is a country located mostly on the Iberian Peninsula in southwestern Europe.
+        It is the westernmost sovereign state of mainland Europe, being bordered to
+        the west and south by the Atlantic Ocean and to the north and east by Spain.
+        Its territory also includes the Atlantic archipelagos of the Azores and Madeira,
+        both autonomous regions with their own regional governments.</string>
+
+    <string name="russia_detail">Russia, or the Russian Federation, is a transcontinental
+        country in Eastern Europe and North Asia. At 17,125,200 square kilometres
+        (6,612,100 sq mi), it is, by a considerable margin, the largest country
+        in the world by area, covering more than one-eighth of the Earth\'s
+        inhabited land area, and the ninth most populous, with about 146.79 million people
+        as of 2019, including Crimea. About 77% of the population live in the western,
+        European part of the country. Russia\'s capital, Moscow, is one of the largest cities
+        in the world and the largest city in Europe.</string>
+
 </resources>
